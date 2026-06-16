@@ -1,3 +1,1 @@
-COPY CODE AND PASTE IN NOTEPAD 
-SAVE A 'Python Master.html'
-AND RUN
+Python Academy
